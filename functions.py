@@ -1,5 +1,5 @@
 #python 3
-import requests, hashlib, time, base64, hmac, pprint
+import requests, hashlib, time, hmac
 
 headers1 = {
     'Accept': '*/*'
